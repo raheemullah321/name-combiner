@@ -1,2 +1,24 @@
-# name-combiner
-# 🛠️ Word Combiner Tool &amp; Naming Resources  A high-utility guide for generating unique brand names and usernames by blending keywords.  👉 **Best Name Blending Tool:** For many creative names instantly  check out our full suite of generators: **[Name Combiners] (https://namecombiners.com/)**.
+# couple-name-combiner
+
+Couple Name Combiner Tool - Blend Two Names into One Unique Identity
+
+A simple and powerful Name Combiner that blends two or more names to create cute, meaningful, and creative combinations. Perfect for couples, friends, teams, brands, and usernames.
+
+---
+
+✅ Try the full tool here: [Couple Name Combiner](https://namecombiners.com/Couple-name-combiner/)
+
+### 🛠️ What you can create with the Couple Name Combiner:
+
+* Couple name combinations
+* Friendship name mashups
+* Social Media Usernames
+* Wedding hashtags
+* Team or group names
+* Unique username ideas
+* Brandable name blends
+* Personalized name mixes
+
+---
+
+🔗 Visit the main website for more tools: [Name Combiners](https://namecombiners.com/)
